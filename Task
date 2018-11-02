@@ -1,13 +1,9 @@
 for val in range(10):
   print('GCI is great')
 
-print
-
 name = input("What's your name? ")
 print("Hello " + name + ", please to meet you!")
 
 backwards = name[::-1]
-
-print
 
 print("Did you know that your name backwards is " + backwards)
